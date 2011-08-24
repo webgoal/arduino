@@ -1,0 +1,7 @@
+Pré-requisitos (http://www.pluggy.me.uk/arduino-ubuntu/):
+
+$ aptitude install sun-java6-jre
+$ aptitude install gcc-avr
+$ aptitude install avr-libc
+
+depois é só usar a IDE disponível na pasta '/dev-tools/arduino-0022/arduino'
